@@ -18,13 +18,14 @@ This backend mobile app is hosted in AWS S3:
 - Blogs 
 
 # Current State:
+
 .column {
   float: left;
   width: 33.33%;
   padding: 5px;
 }
 
-/* Clear floats after image containers */
+
 .row::after {
   content: "";
   clear: both;
@@ -40,14 +41,14 @@ This backend mobile app is hosted in AWS S3:
   padding: 5px;
 }
 
-<div class="row">
-  <div class="column">
+<div class="row" style="display:flex">
+  <div class="column" style="flex: 33.33%; padding: 5px">
     <img src="https://github.com/uqsquach/Jason-Homepage/blob/main/public/projects/map.png" style="width:50%">
   </div>
-  <div class="column">
+  <div class="column" style="flex: 33.33%; padding: 5px">
     <img src="https://github.com/uqsquach/Pet-Home-Android-Mobile-Dev/blob/main/img/map.png" style="width:50%">
   </div>
-  <div class="column">
+  <div class="column" style="flex: 33.33%; padding: 5px"><div class="column">
     <img src="https://github.com/uqsquach/Pet-Home-Android-Mobile-Dev/blob/main/img/map-filter.png" style="width:50%">
   </div>
 </div>
