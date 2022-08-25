@@ -4,9 +4,9 @@ Backend Development with Node.JS/ MongoDB/ AWS S3/ jsonWebToken in a group proje
 # Server
 This backend mobile app is hosted in AWS S3:
 - Node.JS
-- React Native (UI shelter signup)
 - MongoDB database
 - jsonWebToken (OAuth 2.0) 
+- React Native (UI shelter signup)
 
 # Features
 - Upload photos
