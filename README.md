@@ -20,13 +20,13 @@ This backend mobile app is hosted in AWS S3:
 # Current State:
 
 <div class="row" style="display:flex">
-  <div class="column" style="flex: 33.33%; padding: 5px">
+  <div class="column" style="float:left; width:33.33%; padding:5px">
     <img src="https://github.com/uqsquach/Jason-Homepage/blob/main/public/projects/map.png">
   </div>
-  <div class="column" style="flex: 33.33%; padding: 5px">
+  <div class="column" style="float:left; width:33.33%; padding:5px">
     <img src="https://github.com/uqsquach/Pet-Home-Android-Mobile-Dev/blob/main/img/map.png">
   </div>
-  <div class="column" style="flex: 33.33%; padding: 5px"><div class="column">
+  <div class="column" style="float:left; width:33.33%; padding:5px">
     <img src="https://github.com/uqsquach/Pet-Home-Android-Mobile-Dev/blob/main/img/map-filter.png">
   </div>
 </div>
