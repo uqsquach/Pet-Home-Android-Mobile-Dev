@@ -18,6 +18,15 @@ This backend mobile app is hosted in AWS S3:
 - Blogs 
 
 # Current State:
-<img src="https://github.com/uqsquach/Jason-Homepage/blob/main/public/projects/map.png">
-<img src="https://github.com/uqsquach/Pet-Home-Android-Mobile-Dev/blob/main/img/map.png">
-<img src="https://github.com/uqsquach/Pet-Home-Android-Mobile-Dev/blob/main/img/map-filter.png">
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/uqsquach/Jason-Homepage/blob/main/public/projects/map.png" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/uqsquach/Pet-Home-Android-Mobile-Dev/blob/main/img/map.png" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/uqsquach/Pet-Home-Android-Mobile-Dev/blob/main/img/map-filter.png" style="width:100%">
+  </div>
+</div>
+
