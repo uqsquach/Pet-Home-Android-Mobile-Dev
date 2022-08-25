@@ -18,11 +18,11 @@ This backend mobile app is hosted in AWS S3:
 - Blogs 
 
 # Current State:
-Solarized dark             |  Solarized Ocean           |   
-:-------------------------:|:-------------------------: | :-------------------:
-![](https://github.com/uqsquach/Jason-Homepage/blob/main/public/projects/map.png)  |  ![](https://github.com/uqsquach/Pet-Home-Android-Mobile-Dev/blob/main/img/map.png)  |  ![](https://github.com/uqsquach/Pet-Home-Android-Mobile-Dev/blob/main/img/map-filter.png)
-
-
+<p float="left">
+  <img src="https://github.com/uqsquach/Jason-Homepage/blob/main/public/projects/map.png" width="100" />
+  <img src="https://github.com/uqsquach/Pet-Home-Android-Mobile-Dev/blob/main/img/map.png" width="100" /> 
+  <img src="/img3.png" width="100" />
+</p>
 <div class="row" style="display:flex">
   <div class="column" style="float:left; width:33.33%; padding:5px">
     <img src="https://github.com/uqsquach/Jason-Homepage/blob/main/public/projects/map.png">
