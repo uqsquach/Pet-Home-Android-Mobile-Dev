@@ -19,9 +19,9 @@ This backend mobile app is hosted in AWS S3:
 
 # Current State:
 <p float="left">
-  <img src="https://github.com/uqsquach/Jason-Homepage/blob/main/public/projects/blog.png" width="400" />
-  <img src="https://github.com/uqsquach/Pet-Home-Android-Mobile-Dev/blob/main/img/map.png" width="400" /> 
-  <img src="https://github.com/uqsquach/Pet-Home-Android-Mobile-Dev/blob/main/img/map-filter.png" width="400" />
+  <img src="https://github.com/uqsquach/Jason-Homepage/blob/main/public/projects/blog.png" width="300" />
+  <img src="https://github.com/uqsquach/Pet-Home-Android-Mobile-Dev/blob/main/img/map.png" width="300" /> 
+  <img src="https://github.com/uqsquach/Pet-Home-Android-Mobile-Dev/blob/main/img/map-filter.png" width="300" />
 </p>
 <div class="row" style="display:flex">
   <div class="column" style="float:left; width:33.33%; padding:5px">
